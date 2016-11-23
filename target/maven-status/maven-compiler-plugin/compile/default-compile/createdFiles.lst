@@ -1,0 +1,4 @@
+datastore\DataStore.class
+game\Connect4Game.class
+game\Message.class
+MainServlet.class
